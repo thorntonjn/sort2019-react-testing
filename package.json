@@ -42,5 +42,19 @@
     "@testing-library/react": "^9.3.0",
     "@xstate/test": "^0.1.0",
     "eslint-plugin-import": "^2.18.2"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "<rootDir>/src/**/*.js",
+      "<rootDir>/src/components/**/*.js"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 30,
+        "functions": 33,
+        "lines": 50,
+        "statements": 50
+      }
+    }
   }
 }
