@@ -1,3 +1,31 @@
+This repo has support material for my 2019 SORT presentation.  
+
+It gathers several test samples from different places. 
+
+I hope that it will be useful to some in demonstrating various testing tools for react unit and integration tests. 
+
+Many of the samples come from the Jest.io documentation. 
+A few come from the React Testing Library.
+I also reproduced David Kourshid's Model Based Testing module and test demo.
+
+Here, are links where some of the original source in this repo came from and which greatly inspired my thoughts.  
+
+https://www.leighhalliday.com/mocking-axios-in-jest-testing-async-functions
+https://jestjs.io/
+https://reactjs.org/docs/testing.html
+https://www.youtube.com/watch?v=Fha2bVoC8SE
+https://testing-library.com/docs
+https://github.com/kentcdodds/react-testing-library-examples/blob/master/src/__tests__/react-router.js
+https://react-testing-examples.com/
+https://www.youtube.com/watch?v=_pnW-JjmyXE
+https://kentcdodds.com/blog/write-tests
+https://eslint.org/docs/about/
+https://storybook.js.org/docs/guides/quick-start-guide/
+https://css-tricks.com/model-based-testing-in-react-with-state-machines/
+https://github.com/davidkpiano/xstate-test-demo
+https://github.com/davidkpiano/xstate-test-demo/blob/master/src/App.js
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
